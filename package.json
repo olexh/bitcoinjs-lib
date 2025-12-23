@@ -1,5 +1,5 @@
 {
-  "name": "bitcoinjs-lib",
+  "name": "@olexh/paladeum-bitcoinjs-lib",
   "version": "5.1.5",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
@@ -50,7 +50,7 @@
     "bip174": "^1.0.1",
     "bip32": "^2.0.4",
     "bip66": "^1.1.0",
-    "bitcoin-ops": "git://github.com/olexh/bitcoin-ops.git",
+    "@olexh/paladeum-bitcoin-ops": "1.4.1",
     "bs58check": "^2.0.0",
     "create-hash": "^1.1.0",
     "create-hmac": "^1.1.3",
